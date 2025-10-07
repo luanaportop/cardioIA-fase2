@@ -1,0 +1,300 @@
+Sintoma_1,Sintoma_2,Doenca_Associada
+Febre,Fadiga,Endocardite
+Febre,Dor nos músculos,Endocardite
+Febre,Sudorese noturna,Endocardite
+Febre,Respiração curta,Endocardite
+Febre,Palidez,Endocardite
+Febre,Suor nos pés,Endocardite
+Febre,Calafrios,Endocardite
+Febre,Perda de peso e apetite,Endocardite
+Febre,Pontos vermelhos dolorosos nos dedos,Endocardite
+Febre,,Endocardite
+Fadiga,Dor nos músculos,Endocardite
+Fadiga,Sudorese noturna,Endocardite
+Fadiga,Respiração curta,Endocardite
+Fadiga,Palidez,Endocardite
+Fadiga,Suor nos pés,Endocardite
+Fadiga,Calafrios,Endocardite
+Fadiga,Perda de peso e apetite,Endocardite
+Fadiga,Pontos vermelhos dolorosos nos dedos,Endocardite
+Fadiga,,Endocardite
+Dor nos músculos,Sudorese noturna,Endocardite
+Dor nos músculos,Respiração curta,Endocardite
+Dor nos músculos,Palidez,Endocardite
+Dor nos músculos,Suor nos pés,Endocardite
+Dor nos músculos,Calafrios,Endocardite
+Dor nos músculos,Perda de peso e apetite,Endocardite
+Dor nos músculos,Pontos vermelhos dolorosos nos dedos,Endocardite
+Dor nos músculos,,Endocardite
+Sudorese noturna,Respiração curta,Endocardite
+Sudorese noturna,Palidez,Endocardite
+Sudorese noturna,Suor nos pés,Endocardite
+Sudorese noturna,Calafrios,Endocardite
+Sudorese noturna,Perda de peso e apetite,Endocardite
+Sudorese noturna,Pontos vermelhos dolorosos nos dedos,Endocardite
+Sudorese noturna,,Endocardite
+Respiração curta,Palidez,Endocardite
+Respiração curta,Suor nos pés,Endocardite
+Respiração curta,Calafrios,Endocardite
+Respiração curta,Perda de peso e apetite,Endocardite
+Respiração curta,Pontos vermelhos dolorosos nos dedos,Endocardite
+Respiração curta,,Endocardite
+Palidez,Suor nos pés,Endocardite
+Palidez,Calafrios,Endocardite
+Palidez,Perda de peso e apetite,Endocardite
+Palidez,Pontos vermelhos dolorosos nos dedos,Endocardite
+Palidez,,Endocardite
+Suor nos pés,Calafrios,Endocardite
+Suor nos pés,Perda de peso e apetite,Endocardite
+Suor nos pés,Pontos vermelhos dolorosos nos dedos,Endocardite
+Suor nos pés,,Endocardite
+Calafrios,Perda de peso e apetite,Endocardite
+Calafrios,Pontos vermelhos dolorosos nos dedos,Endocardite
+Calafrios,,Endocardite
+Perda de peso e apetite,Pontos vermelhos dolorosos nos dedos,Endocardite
+Perda de peso e apetite,,Endocardite
+Pontos vermelhos dolorosos nos dedos,,Endocardite
+Falta de ar,Fadiga,Insuficiência Cardíaca
+Falta de ar,Inchaço (edema),Insuficiência Cardíaca
+Falta de ar,Ganho de peso inexplicado,Insuficiência Cardíaca
+Falta de ar,Tosse persistente,Insuficiência Cardíaca
+Falta de ar,Batimentos cardíacos irregulares,Insuficiência Cardíaca
+Falta de ar,Dificuldade de concentração,Insuficiência Cardíaca
+Falta de ar,,Insuficiência Cardíaca
+Fadiga,Inchaço (edema),Insuficiência Cardíaca
+Fadiga,Ganho de peso inexplicado,Insuficiência Cardíaca
+Fadiga,Tosse persistente,Insuficiência Cardíaca
+Fadiga,Batimentos cardíacos irregulares,Insuficiência Cardíaca
+Fadiga,Dificuldade de concentração,Insuficiência Cardíaca
+Fadiga,,Insuficiência Cardíaca
+Inchaço (edema),Ganho de peso inexplicado,Insuficiência Cardíaca
+Inchaço (edema),Tosse persistente,Insuficiência Cardíaca
+Inchaço (edema),Batimentos cardíacos irregulares,Insuficiência Cardíaca
+Inchaço (edema),Dificuldade de concentração,Insuficiência Cardíaca
+Inchaço (edema),,Insuficiência Cardíaca
+Ganho de peso inexplicado,Tosse persistente,Insuficiência Cardíaca
+Ganho de peso inexplicado,Batimentos cardíacos irregulares,Insuficiência Cardíaca
+Ganho de peso inexplicado,Dificuldade de concentração,Insuficiência Cardíaca
+Ganho de peso inexplicado,,Insuficiência Cardíaca
+Tosse persistente,Batimentos cardíacos irregulares,Insuficiência Cardíaca
+Tosse persistente,Dificuldade de concentração,Insuficiência Cardíaca
+Tosse persistente,,Insuficiência Cardíaca
+Batimentos cardíacos irregulares,Dificuldade de concentração,Insuficiência Cardíaca
+Batimentos cardíacos irregulares,,Insuficiência Cardíaca
+Dificuldade de concentração,,Insuficiência Cardíaca
+Fadiga,Dor no estômago,Infarto
+Fadiga,Dor no peito,Infarto
+Fadiga,"Náusea, tontura e falta de ar",Infarto
+Fadiga,Suor frio repentino,Infarto
+Fadiga,Espasmo no pescoço e na mandíbula,Infarto
+Fadiga,Dor torácica,Infarto
+Fadiga,Dores nos braços,Infarto
+Fadiga,Tosse,Infarto
+Fadiga,Inquietação,Infarto
+Fadiga,Batimentos cardíacos rápidos e irregulares,Infarto
+Fadiga,Inchaço corporal,Infarto
+Fadiga,,Infarto
+Dor no estômago,Dor no peito,Infarto
+Dor no estômago,"Náusea, tontura e falta de ar",Infarto
+Dor no estômago,Suor frio repentino,Infarto
+Dor no estômago,Espasmo no pescoço e na mandíbula,Infarto
+Dor no estômago,Dor torácica,Infarto
+Dor no estômago,Dores nos braços,Infarto
+Dor no estômago,Tosse,Infarto
+Dor no estômago,Inquietação,Infarto
+Dor no estômago,Batimentos cardíacos rápidos e irregulares,Infarto
+Dor no estômago,Inchaço corporal,Infarto
+Dor no estômago,,Infarto
+Dor no peito,"Náusea, tontura e falta de ar",Infarto
+Dor no peito,Suor frio repentino,Infarto
+Dor no peito,Espasmo no pescoço e na mandíbula,Infarto
+Dor no peito,Dor torácica,Infarto
+Dor no peito,Dores nos braços,Infarto
+Dor no peito,Tosse,Infarto
+Dor no peito,Inquietação,Infarto
+Dor no peito,Batimentos cardíacos rápidos e irregulares,Infarto
+Dor no peito,Inchaço corporal,Infarto
+Dor no peito,,Infarto
+"Náusea, tontura e falta de ar",Suor frio repentino,Infarto
+"Náusea, tontura e falta de ar",Espasmo no pescoço e na mandíbula,Infarto
+"Náusea, tontura e falta de ar",Dor torácica,Infarto
+"Náusea, tontura e falta de ar",Dores nos braços,Infarto
+"Náusea, tontura e falta de ar",Tosse,Infarto
+"Náusea, tontura e falta de ar",Inquietação,Infarto
+"Náusea, tontura e falta de ar",Batimentos cardíacos rápidos e irregulares,Infarto
+"Náusea, tontura e falta de ar",Inchaço corporal,Infarto
+"Náusea, tontura e falta de ar",,Infarto
+Suor frio repentino,Espasmo no pescoço e na mandíbula,Infarto
+Suor frio repentino,Dor torácica,Infarto
+Suor frio repentino,Dores nos braços,Infarto
+Suor frio repentino,Tosse,Infarto
+Suor frio repentino,Inquietação,Infarto
+Suor frio repentino,Batimentos cardíacos rápidos e irregulares,Infarto
+Suor frio repentino,Inchaço corporal,Infarto
+Suor frio repentino,,Infarto
+Espasmo no pescoço e na mandíbula,Dor torácica,Infarto
+Espasmo no pescoço e na mandíbula,Dores nos braços,Infarto
+Espasmo no pescoço e na mandíbula,Tosse,Infarto
+Espasmo no pescoço e na mandíbula,Inquietação,Infarto
+Espasmo no pescoço e na mandíbula,Batimentos cardíacos rápidos e irregulares,Infarto
+Espasmo no pescoço e na mandíbula,Inchaço corporal,Infarto
+Espasmo no pescoço e na mandíbula,,Infarto
+Dor torácica,Dores nos braços,Infarto
+Dor torácica,Tosse,Infarto
+Dor torácica,Inquietação,Infarto
+Dor torácica,Batimentos cardíacos rápidos e irregulares,Infarto
+Dor torácica,Inchaço corporal,Infarto
+Dor torácica,,Infarto
+Dores nos braços,Tosse,Infarto
+Dores nos braços,Inquietação,Infarto
+Dores nos braços,Batimentos cardíacos rápidos e irregulares,Infarto
+Dores nos braços,Inchaço corporal,Infarto
+Dores nos braços,,Infarto
+Tosse,Inquietação,Infarto
+Tosse,Batimentos cardíacos rápidos e irregulares,Infarto
+Tosse,Inchaço corporal,Infarto
+Tosse,,Infarto
+Inquietação,Batimentos cardíacos rápidos e irregulares,Infarto
+Inquietação,Inchaço corporal,Infarto
+Inquietação,,Infarto
+Batimentos cardíacos rápidos e irregulares,Inchaço corporal,Infarto
+Batimentos cardíacos rápidos e irregulares,,Infarto
+Inchaço corporal,,Infarto
+Palpitações,Falta de ar,Arritmia
+Palpitações,Cansaço inexplicável,Arritmia
+Palpitações,Tontura ou desmaios,Arritmia
+Palpitações,Suor frio,Arritmia
+Palpitações,Aperto ou desconforto no peito,Arritmia
+Palpitações,Dificuldade para realizar esforço físico,Arritmia
+Palpitações,Confusão mental,Arritmia
+Palpitações,,Arritmia
+Falta de ar,Cansaço inexplicável,Arritmia
+Falta de ar,Tontura ou desmaios,Arritmia
+Falta de ar,Suor frio,Arritmia
+Falta de ar,Aperto ou desconforto no peito,Arritmia
+Falta de ar,Dificuldade para realizar esforço físico,Arritmia
+Falta de ar,Confusão mental,Arritmia
+Falta de ar,,Arritmia
+Cansaço inexplicável,Tontura ou desmaios,Arritmia
+Cansaço inexplicável,Suor frio,Arritmia
+Cansaço inexplicável,Aperto ou desconforto no peito,Arritmia
+Cansaço inexplicável,Dificuldade para realizar esforço físico,Arritmia
+Cansaço inexplicável,Confusão mental,Arritmia
+Cansaço inexplicável,,Arritmia
+Tontura ou desmaios,Suor frio,Arritmia
+Tontura ou desmaios,Aperto ou desconforto no peito,Arritmia
+Tontura ou desmaios,Dificuldade para realizar esforço físico,Arritmia
+Tontura ou desmaios,Confusão mental,Arritmia
+Tontura ou desmaios,,Arritmia
+Suor frio,Aperto ou desconforto no peito,Arritmia
+Suor frio,Dificuldade para realizar esforço físico,Arritmia
+Suor frio,Confusão mental,Arritmia
+Suor frio,,Arritmia
+Aperto ou desconforto no peito,Dificuldade para realizar esforço físico,Arritmia
+Aperto ou desconforto no peito,Confusão mental,Arritmia
+Aperto ou desconforto no peito,,Arritmia
+Dificuldade para realizar esforço físico,Confusão mental,Arritmia
+Dificuldade para realizar esforço físico,,Arritmia
+Confusão mental,,Arritmia
+Fadiga,Cansaço entre as mamadas,Cardiopatia Congênita
+Fadiga,Dispneia,Cardiopatia Congênita
+Fadiga,Cianose,Cardiopatia Congênita
+Fadiga,Sudorese,Cardiopatia Congênita
+Fadiga,,Cardiopatia Congênita
+Cansaço entre as mamadas,Dispneia,Cardiopatia Congênita
+Cansaço entre as mamadas,Cianose,Cardiopatia Congênita
+Cansaço entre as mamadas,Sudorese,Cardiopatia Congênita
+Cansaço entre as mamadas,,Cardiopatia Congênita
+Dispneia,Cianose,Cardiopatia Congênita
+Dispneia,Sudorese,Cardiopatia Congênita
+Dispneia,,Cardiopatia Congênita
+Cianose,Sudorese,Cardiopatia Congênita
+Cianose,,Cardiopatia Congênita
+Sudorese,,Cardiopatia Congênita
+Náuseas,Tontura,Hipertensão Arterial
+Náuseas,Dor de cabeça forte,Hipertensão Arterial
+Náuseas,Sangramento pelo nariz,Hipertensão Arterial
+Náuseas,Zumbido no ouvido,Hipertensão Arterial
+Náuseas,Dificuldade para respirar,Hipertensão Arterial
+Náuseas,Cansaço excessivo,Hipertensão Arterial
+Náuseas,Visão embaçada,Hipertensão Arterial
+Náuseas,Dor no peito,Hipertensão Arterial
+Náuseas,Perda da consciência,Hipertensão Arterial
+Náuseas,Ansiedade excessiva,Hipertensão Arterial
+Náuseas,,Hipertensão Arterial
+Tontura,Dor de cabeça forte,Hipertensão Arterial
+Tontura,Sangramento pelo nariz,Hipertensão Arterial
+Tontura,Zumbido no ouvido,Hipertensão Arterial
+Tontura,Dificuldade para respirar,Hipertensão Arterial
+Tontura,Cansaço excessivo,Hipertensão Arterial
+Tontura,Visão embaçada,Hipertensão Arterial
+Tontura,Dor no peito,Hipertensão Arterial
+Tontura,Perda da consciência,Hipertensão Arterial
+Tontura,Ansiedade excessiva,Hipertensão Arterial
+Tontura,,Hipertensão Arterial
+Dor de cabeça forte,Sangramento pelo nariz,Hipertensão Arterial
+Dor de cabeça forte,Zumbido no ouvido,Hipertensão Arterial
+Dor de cabeça forte,Dificuldade para respirar,Hipertensão Arterial
+Dor de cabeça forte,Cansaço excessivo,Hipertensão Arterial
+Dor de cabeça forte,Visão embaçada,Hipertensão Arterial
+Dor de cabeça forte,Dor no peito,Hipertensão Arterial
+Dor de cabeça forte,Perda da consciência,Hipertensão Arterial
+Dor de cabeça forte,Ansiedade excessiva,Hipertensão Arterial
+Dor de cabeça forte,,Hipertensão Arterial
+Sangramento pelo nariz,Zumbido no ouvido,Hipertensão Arterial
+Sangramento pelo nariz,Dificuldade para respirar,Hipertensão Arterial
+Sangramento pelo nariz,Cansaço excessivo,Hipertensão Arterial
+Sangramento pelo nariz,Visão embaçada,Hipertensão Arterial
+Sangramento pelo nariz,Dor no peito,Hipertensão Arterial
+Sangramento pelo nariz,Perda da consciência,Hipertensão Arterial
+Sangramento pelo nariz,Ansiedade excessiva,Hipertensão Arterial
+Sangramento pelo nariz,,Hipertensão Arterial
+Zumbido no ouvido,Dificuldade para respirar,Hipertensão Arterial
+Zumbido no ouvido,Cansaço excessivo,Hipertensão Arterial
+Zumbido no ouvido,Visão embaçada,Hipertensão Arterial
+Zumbido no ouvido,Dor no peito,Hipertensão Arterial
+Zumbido no ouvido,Perda da consciência,Hipertensão Arterial
+Zumbido no ouvido,Ansiedade excessiva,Hipertensão Arterial
+Zumbido no ouvido,,Hipertensão Arterial
+Dificuldade para respirar,Cansaço excessivo,Hipertensão Arterial
+Dificuldade para respirar,Visão embaçada,Hipertensão Arterial
+Dificuldade para respirar,Dor no peito,Hipertensão Arterial
+Dificuldade para respirar,Perda da consciência,Hipertensão Arterial
+Dificuldade para respirar,Ansiedade excessiva,Hipertensão Arterial
+Dificuldade para respirar,,Hipertensão Arterial
+Cansaço excessivo,Visão embaçada,Hipertensão Arterial
+Cansaço excessivo,Dor no peito,Hipertensão Arterial
+Cansaço excessivo,Perda da consciência,Hipertensão Arterial
+Cansaço excessivo,Ansiedade excessiva,Hipertensão Arterial
+Cansaço excessivo,,Hipertensão Arterial
+Visão embaçada,Dor no peito,Hipertensão Arterial
+Visão embaçada,Perda da consciência,Hipertensão Arterial
+Visão embaçada,Ansiedade excessiva,Hipertensão Arterial
+Visão embaçada,,Hipertensão Arterial
+Dor no peito,Perda da consciência,Hipertensão Arterial
+Dor no peito,Ansiedade excessiva,Hipertensão Arterial
+Dor no peito,,Hipertensão Arterial
+Perda da consciência,Ansiedade excessiva,Hipertensão Arterial
+Perda da consciência,,Hipertensão Arterial
+Ansiedade excessiva,,Hipertensão Arterial
+Dor no peito,Batimento cardíaco irregular,Miocardite
+Dor no peito,Falta de ar,Miocardite
+Dor no peito,Cansaço excessivo,Miocardite
+Dor no peito,Inchaço das pernas e pés,Miocardite
+Dor no peito,Tonturas,Miocardite
+Dor no peito,,Miocardite
+Batimento cardíaco irregular,Falta de ar,Miocardite
+Batimento cardíaco irregular,Cansaço excessivo,Miocardite
+Batimento cardíaco irregular,Inchaço das pernas e pés,Miocardite
+Batimento cardíaco irregular,Tonturas,Miocardite
+Batimento cardíaco irregular,,Miocardite
+Falta de ar,Cansaço excessivo,Miocardite
+Falta de ar,Inchaço das pernas e pés,Miocardite
+Falta de ar,Tonturas,Miocardite
+Falta de ar,,Miocardite
+Cansaço excessivo,Inchaço das pernas e pés,Miocardite
+Cansaço excessivo,Tonturas,Miocardite
+Cansaço excessivo,,Miocardite
+Inchaço das pernas e pés,Tonturas,Miocardite
+Inchaço das pernas e pés,,Miocardite
+Tonturas,,Miocardite

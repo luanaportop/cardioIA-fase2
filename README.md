@@ -100,7 +100,7 @@ A matriz de confusão mostra o desempenho do modelo em prever corretamente os ca
 ---
 
 ### Links:
-[🔗 Clique aqui para assistir ao vídeo](https://youtu.be/B4OQ8L7OS84)
+[🔗 Clique aqui para assistir ao vídeo](https://youtu.be/B4OQ8L7OS84) <br>
 [Acesse o notebook](https://colab.research.google.com/drive/13XjixufqLO0jlZPsGyk4uIs05JAKoBG0?usp=drive_link)
 
 
